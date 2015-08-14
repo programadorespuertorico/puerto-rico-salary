@@ -1,0 +1,33 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"title": "Puerto Rico Salary",
+	"type": "object",
+	"additionalProperties": false,
+	"properties": {
+		"basics": {
+			"type": "object",
+			"additionalProperties": true,
+			"properties": {
+				"jobtitle": {
+					"type": "string"
+				},
+				"gender": {
+					"type": "string"
+				},				
+				"city": {
+					"type": "string"
+				},
+				"role": {
+					"type": "string"					
+				},
+				"anualsalary": {
+					"type": "number"
+				},
+				"summary": {
+					"type": "string",
+					"description": "Write a short 2-3 sentence about job description"
+				}
+			}
+		}
+	}
+}
