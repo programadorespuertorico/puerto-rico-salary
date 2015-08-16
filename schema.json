@@ -17,6 +17,9 @@
 				"city": {
 					"type": "string"
 				},
+				"industry": {
+					"type": "string"
+				},
 				"role": {
 					"type": "string"					
 				},
