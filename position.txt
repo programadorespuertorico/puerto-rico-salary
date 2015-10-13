@@ -1,0 +1,92 @@
+Administration
+Applications Architect 
+Applications Development 
+Big Data Engineer 
+Business Continuity Analyst 
+Business Intelligence Analyst 
+Business Systems Analyst 
+Chief Information Officer (CIO)
+Chief Security Officer (CSO)
+Chief Technology Officer (CTO)
+Computer Operator 
+Consultant 
+Consulting & Systems Integration
+CRM Business Analyst 
+CRM Technical Developer 
+Data Analyst/Report Writer 
+Data Architect 
+Data Modeler 
+Data Scientist 
+Data Security Analyst 
+Data Warehouse Analyst 
+Data Warehouse Manager 
+Data/Database Administration 
+Database Administrator 
+Database Developer 
+Database Manager 
+Desktop Support Analyst 
+Developer/Programmer Analyst 
+Director 
+E-Commerce Analyst 
+Electronic Data Interchange (EDI)
+Engineer 
+ERP Business Analyst 
+ERP Technical Developer 
+ERP Technical/Functional Analyst 
+Front-End Web Developer 
+Help Desk Tier 1 
+Help Desk Tier 2 
+Help Desk Tier 3 
+Information Systems Security
+Information Technology Manager 
+Instructor/Trainer 
+IT Auditor 
+Lead Applications Developer 
+Mainframe Systems Programmer 
+Manager 
+Messaging Administrator 
+Mobile Applications Developer 
+Network Administrator 
+Network Architect 
+Network Engineer 
+Network Manager 
+Network Security Administrator 
+Network Security Engineer 
+Networking/Telecommunications 
+Operations
+PC Technician 
+Portal Administrator 
+Practice Manager 
+Pre-Sales Engineer/Technical
+Product Manager 
+Project Manager 
+Project Manager/Senior
+QA Associate/Analyst 
+QA Engineer – Automated 
+QA Engineer – Manual 
+QA/Testing Manager 
+Quality Assurance (QA) & Testing 
+Security 
+Senior IT Auditor 
+Senior Web Developer 
+Software Developer 
+Software Development 
+Software Engineer 
+Specialist 
+Staff Consultant 
+Systems Administrator 
+Systems Analyst 
+Systems Engineer 
+Systems Security Administrator 
+Technical Services, Help Desk & Technical Support 
+Technical Writer 
+Technology 
+Technology Director 
+Telecommunications Manager 
+Telecommunications Specialist 
+Vice President of Information
+Web Administrator 
+Web Designer 
+Web Developer 
+Web Development 
+Wireless Network Engineer
