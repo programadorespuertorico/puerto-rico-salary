@@ -1,0 +1,268 @@
+[
+    {
+        "timestamp": "2016-01-26T22:19:17.845Z",
+        "puertoRicoUsaOOtro": "Usa",
+        "destrezasDeProgramacion": "Las primeras dos",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "90 - 120k"
+    },
+    {
+        "timestamp": "2016-01-26T22:20:54.513Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Back end",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "35k-50k"
+    },
+    {
+        "timestamp": "2016-01-26T22:28:26.045Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Las primeras dos",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "35k-50k"
+    },
+    {
+        "timestamp": "2016-01-26T22:30:29.776Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Back end",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "50-65k"
+    },
+    {
+        "timestamp": "2016-01-26T23:09:01.574Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Las primeras dos",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "25k-35k"
+    },
+    {
+        "timestamp": "2016-01-26T23:30:25.327Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Las primeras dos",
+        "freelancerOEmpleado": "Freelancer",
+        "pagaAnual": "35k-50k"
+    },
+    {
+        "timestamp": "2016-01-26T23:52:34.141Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "todas soy la O",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "50-65k"
+    },
+    {
+        "timestamp": "2016-01-27T00:29:50.174Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Back end",
+        "freelancerOEmpleado": "Freelancer",
+        "pagaAnual": "35k-50k"
+    },
+    {
+        "timestamp": "2016-01-27T03:59:26.804Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Front end",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "50-65k"
+    },
+    {
+        "timestamp": "2016-01-27T16:27:02.734Z",
+        "puertoRicoUsaOOtro": "Usa",
+        "destrezasDeProgramacion": "Las primeras dos",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "High Roller"
+    },
+    {
+        "timestamp": "2016-01-27T16:48:48.779Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "todas soy la O",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "65k-90"
+    },
+    {
+        "timestamp": "2016-01-27T16:49:27.500Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Las primeras dos",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "25k-35k"
+    },
+    {
+        "timestamp": "2016-01-27T17:01:05.447Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "todas soy la O",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "35k-50k"
+    },
+    {
+        "timestamp": "2016-01-27T17:09:12.914Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Las primeras dos",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "50-65k"
+    },
+    {
+        "timestamp": "2016-01-27T17:14:50.116Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Las primeras dos",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "35k-50k"
+    },
+    {
+        "timestamp": "2016-01-27T17:19:17.999Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Diseno",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "25k-35k"
+    },
+    {
+        "timestamp": "2016-01-27T17:37:59.493Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Las primeras dos",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "15-25k"
+    },
+    {
+        "timestamp": "2016-01-27T17:43:45.783Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Back end",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "25k-35k"
+    },
+    {
+        "timestamp": "2016-01-27T18:27:24.324Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Las primeras dos",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "25k-35k"
+    },
+    {
+        "timestamp": "2016-01-27T19:01:43.214Z",
+        "puertoRicoUsaOOtro": "Usa",
+        "destrezasDeProgramacion": "todas soy la O",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "High Roller"
+    },
+    {
+        "timestamp": "2016-01-27T19:19:05.278Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Las primeras dos",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "35k-50k"
+    },
+    {
+        "timestamp": "2016-01-27T20:29:27.481Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Back end",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "15-25k"
+    },
+    {
+        "timestamp": "2016-01-27T21:55:46.136Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Las primeras dos",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "35k-50k"
+    },
+    {
+        "timestamp": "2016-01-27T21:57:32.784Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Las primeras dos",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "35k-50k"
+    },
+    {
+        "timestamp": "2016-01-27T22:26:52.399Z",
+        "puertoRicoUsaOOtro": "Usa",
+        "destrezasDeProgramacion": "Las primeras dos",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "50-65k"
+    },
+    {
+        "timestamp": "2016-01-27T22:47:43.518Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "todas soy la O",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "65k-90"
+    },
+    {
+        "timestamp": "2016-01-27T22:52:02.753Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "todas soy la O",
+        "freelancerOEmpleado": "Freelancer",
+        "pagaAnual": "65k-90"
+    },
+    {
+        "timestamp": "2016-01-27T23:11:55.033Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Las primeras dos",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "120k- 160k"
+    },
+    {
+        "timestamp": "2016-01-28T00:50:40.720Z",
+        "puertoRicoUsaOOtro": "Usa",
+        "destrezasDeProgramacion": "Back end",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "65k-90"
+    },
+    {
+        "timestamp": "2016-01-28T00:55:45.412Z",
+        "puertoRicoUsaOOtro": "Usa",
+        "destrezasDeProgramacion": "todas soy la O",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "120k- 160k"
+    },
+    {
+        "timestamp": "2016-01-28T01:23:15.766Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Las primeras dos",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "35k-50k"
+    },
+    {
+        "timestamp": "2016-01-28T02:41:14.058Z",
+        "puertoRicoUsaOOtro": "Usa",
+        "destrezasDeProgramacion": "todas soy la O",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "120k- 160k"
+    },
+    {
+        "timestamp": "2016-01-28T12:17:44.009Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Back end",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "65k-90"
+    },
+    {
+        "timestamp": "2016-01-28T13:48:49.519Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Las primeras dos",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "35k-50k"
+    },
+    {
+        "timestamp": "2016-01-29T03:20:14.817Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "todas soy la O",
+        "freelancerOEmpleado": "Freelancer",
+        "pagaAnual": "120k- 160k"
+    },
+    {
+        "timestamp": "2016-01-29T15:55:48.959Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "Las primeras dos",
+        "freelancerOEmpleado": "Freelancer",
+        "pagaAnual": "50-65k"
+    },
+    {
+        "timestamp": "2016-01-30T19:39:36.699Z",
+        "puertoRicoUsaOOtro": "Usa",
+        "destrezasDeProgramacion": "Back end",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "50-65k"
+    },
+    {
+        "timestamp": "2016-01-31T23:30:42.076Z",
+        "puertoRicoUsaOOtro": "Puerto Rico",
+        "destrezasDeProgramacion": "todas soy la O",
+        "freelancerOEmpleado": "Empleado",
+        "pagaAnual": "25k-35k"
+    }
+]
